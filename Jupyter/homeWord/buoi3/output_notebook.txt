@@ -1,0 +1,3 @@
+Số người trên 30 tuổi: 3
+Tổng số tiền lương: 430000
+Số người có lương lớn hơn 50,000 và tuổi nhỏ hơn 40: 4
